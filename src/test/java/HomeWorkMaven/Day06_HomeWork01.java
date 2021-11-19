@@ -1,4 +1,4 @@
-package day06;
+package HomeWorkMaven;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.AfterClass;
@@ -24,7 +24,7 @@ import java.util.concurrent.TimeUnit;
 //// Web Sitesinden dize fiyat değerlerini alın, ikiye dönüştürün ve <Double> ArrayList'e ekleyin ve fiyat listesini yazdırın
 //// Ödemeye Tıkla
 
-public class C_HomeWork {
+public class Day06_HomeWork01 {
     static WebDriver driver;
 
     @BeforeClass

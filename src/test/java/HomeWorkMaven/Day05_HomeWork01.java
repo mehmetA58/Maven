@@ -1,4 +1,4 @@
-package day05;
+package HomeWorkMaven;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;
@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.concurrent.TimeUnit;
 
-public class C06_HomeWork {
+public class Day05_HomeWork01 {
     //1-Test01 isimli bir class olusturun
     //2- https://www.amazon.com/ adresine gidin
     //3- Browseri tam sayfa yapin

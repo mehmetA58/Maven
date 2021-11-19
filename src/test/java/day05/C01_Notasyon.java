@@ -1,6 +1,7 @@
 package day05;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 public class C01_Notasyon {
     public void ilkTestMethodu(){
